@@ -2,10 +2,10 @@
 actions:
 - !!ch.sbb.releasetrain.config.model.releaseconfig.JenkinsActionConfig
   enabled: true
-  jenkinsBuildToken: ''
-  jenkinsJobname: ''
-  jenkinsPassword: DeBxw70H3bAYUnU/WNKD1fql67ezcwlQ
-  jenkinsUrl: ''
+  jenkinsBuildToken: test
+  jenkinsJobname: test
+  jenkinsPassword: /FrFQirmBpMzWb9qvb30J5h0kxjrb3RN
+  jenkinsUrl: www.sbb.ch
   jenkinsUser: matthiasehrsam
   jobAdminMail: ''
   offseMinutes: 0
