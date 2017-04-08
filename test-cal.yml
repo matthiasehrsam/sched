@@ -1,0 +1,13 @@
+!!ch.sbb.releasetrain.config.model.releasecalendar.ReleaseCalendar
+coloumns:
+- {name: releaseVersion, 'on': true}
+- {name: snapshotVersion, 'on': true}
+- {name: maintenanceVersion, 'on': true}
+- {name: custom1, 'on': true}
+- {name: custom2, 'on': true}
+events:
+- actionType: test
+  date: 2017-04-08 23:51
+  parameters: {}
+  root: null
+  state: NEW
