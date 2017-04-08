@@ -4,7 +4,7 @@ actions:
   enabled: true
   jenkinsBuildToken: test
   jenkinsJobname: test
-  jenkinsPassword: /FrFQirmBpMzWb9qvb30J5h0kxjrb3RN
+  jenkinsPassword: 583lgRJGvbBQb+WtJ9wez9P/rn5QNL0r
   jenkinsUrl: www.sbb.ch
   jenkinsUser: matthiasehrsam
   jobAdminMail: ''
@@ -14,9 +14,9 @@ actions:
   enabled: true
   offseMinutes: 0
   properties: {}
-  receiver: ''
-  sender: ''
-  smtpServer: ''
-  subject: ''
-  text: ''
+  receiver: t1@a.com,t2@b.com
+  sender: test@host.com
+  smtpServer: hhh
+  subject: hallo
+  text: hallo
 typ: null
