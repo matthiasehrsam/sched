@@ -1,0 +1,22 @@
+!!ch.sbb.releasetrain.config.model.releaseconfig.ReleaseConfig
+actions:
+- !!ch.sbb.releasetrain.config.model.releaseconfig.JenkinsActionConfig
+  enabled: true
+  jenkinsBuildToken: ''
+  jenkinsJobname: ''
+  jenkinsPassword: DeBxw70H3bAYUnU/WNKD1fql67ezcwlQ
+  jenkinsUrl: ''
+  jenkinsUser: matthiasehrsam
+  jobAdminMail: ''
+  offseMinutes: 0
+  properties: {}
+- !!ch.sbb.releasetrain.config.model.releaseconfig.EmailActionConfig
+  enabled: true
+  offseMinutes: 0
+  properties: {}
+  receiver: ''
+  sender: ''
+  smtpServer: ''
+  subject: ''
+  text: ''
+typ: null
