@@ -4,7 +4,7 @@ actions:
   enabled: true
   jenkinsBuildToken: test
   jenkinsJobname: test
-  jenkinsPassword: 583lgRJGvbBQb+WtJ9wez9P/rn5QNL0r
+  jenkinsPassword: Giy31HNOmOOQnM/eoNtrkQMOkywWmWbR
   jenkinsUrl: www.sbb.ch
   jenkinsUser: matthiasehrsam
   jobAdminMail: ''
